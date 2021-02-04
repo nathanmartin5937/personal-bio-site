@@ -2,11 +2,12 @@ body {
     background-color: grey;
 }
 
-.navStyling {
+.navStyle {
     list-style-type: none;
     margin: 0;
     padding: 0;
   }
 
-
-  
+.fullPage {
+    /* text-align: center; */
+}
